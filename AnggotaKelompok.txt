@@ -1,5 +1,11 @@
+<<<<<<< Updated upstream
 Fadly
 Andre
 Deasy 102022400208
+=======
+Fadly 102022430049
+Andre 102022430059
+Deasy 102022400208 
+>>>>>>> Stashed changes
 Kayla 102022400031
 Faza
