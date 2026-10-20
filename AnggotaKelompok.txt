@@ -1,10 +1,6 @@
 Fadly
 Andre
 Deasy
-<<<<<<< Updated upstream
 Kayla 102022400031
 Faza 102022400135
-=======
-Kayla
-Faza - 102022400135
->>>>>>> Stashed changes
+
